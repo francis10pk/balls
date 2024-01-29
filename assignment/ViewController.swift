@@ -8,6 +8,7 @@
 import UIKit
 import Foundation
 class ViewController: UIViewController {
+    //wsw
     var ballindex = Int.random(in: 0..<5)
     let imageArray = [UIImage(named: "ball1"),UIImage(named: "ball2"),
                          UIImage(named: "ball3"),UIImage(named: "ball4"),
